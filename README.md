@@ -1,2 +1,2 @@
-
-![image](https://github.com/user-attachments/assets/0d50b183-474b-4704-b2e0-1ca392fa6b10)
+**Нормалізація таблиць
+![image](https://github.com/user-attachments/assets/fa9215fc-c1cb-4a8f-ae3e-8a855f93f55a)
